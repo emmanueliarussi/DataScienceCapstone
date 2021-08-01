@@ -6,7 +6,8 @@ Seismic and survey data are useful for capturing the objective damage that the e
 
 City Officials have identified a subset of Y* INT, a community-based social media platform, as a potential source for revealing the current state of St. Himark’s neighborhoods and people. Knowing that you are skilled in visual analytics, the City has asked you to analyze Y* INT messages in order to determine the appropriate actions it must take in order to assist the community in this disaster.
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkVoicePeople/data/task3.zip)*
+### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/raw/master/7_FinalProjects/DisasterStHimarkVoicePeople/data.zip)*
+
 
 Data contains one CSV file, spanning from 04/06/2020 to 04/12/2020, which has the following fields:
 
