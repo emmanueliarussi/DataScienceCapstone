@@ -12,7 +12,7 @@ The primary job for Mitch is to determine which (if any) of the factories may be
 
 Your task, as supported by data analytics that you apply, is to detangle the data to help Mitch determine where problems may be. Use data analytics to explore the available data and develop responses to the questions below. 
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/MysteryWildlifePreserve/data/task2.zip)*
+### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/raw/master/7_FinalProjects/MysteryWildlifePreserveIPlumeAnalysis/data/task2.zip)*
 
 Mitch discovered that the state government has been monitoring the gaseous effluents from the factories through a set of sensors, distributed around the factories, and set between the smokestacks, the city of Mistford and the nature preserve. The state gave Mitch access to their air sampling data, meteorological data, and locations map. Data includes meteorological data that provided wind speed and direction for certain periods of time and sensor data for three months’ worth of readings with the chemical detected, the sensor id, the reading in parts per million, and the
 date/time. 
