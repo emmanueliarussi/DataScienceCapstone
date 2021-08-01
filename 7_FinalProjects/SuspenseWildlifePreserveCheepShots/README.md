@@ -9,7 +9,7 @@ Kasios now claims that the analysis was flawed and biased. To combat these concl
 
 The Pangera Ornithology Conservation Society is at their wit’s end at what to do about this turn of events. The townsfolk and Preserve rangers seem satisfied that the recordings back up Kasios’ claims. Mistford College does not have a Pipit expert they can call upon for help. But, they do have a collection of bird calls from the Preserve that has been vetted by various ornithology groups as having accurate identifications. They have heard that new techniques from machine learning and visual analytics can be applied to situations like this. Perhaps, the calls could be classified and analyzed using these technologies.
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveCheepShots/data/task1.zip)*
+### Data - *[Download 1](https://github.com/emmanueliarussi/DataScienceCapstone/raw/master/7_FinalProjects/SuspenseWildlifePreserveCheepShots/data/Data%20Description%20-%20UPDATE%202018-5-4.docx)* *[Download 2](https://vacommunity.org/tiki-download_file.php?fileId=575)*
 
 The townsfolk and Preserve rangers seem satisfied that the recordings back up Kasios’ claims, but the Pangera Ornithology Conservation Society is deeply suspicious. In addition to the recordings provided by Kasios, you are provided with a collection of bird calls from the Preserve that have been vetted by various ornithology groups as having accurate identifications.
 
