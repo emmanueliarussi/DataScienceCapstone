@@ -9,7 +9,9 @@ Outraged ornithology professors from Mistford College journeyed out to look over
 
 With a primary piece of evidence against Kasios now gone, investigators will need to take another approach. Professors in the Mistford College Hydrology Department have come forward with several years of water sensor readings from rivers and streams in the preserve. These samples were taken from different locations scattered throughout the area and contain measurements of several chemicals of possible interest, but they have never been analyzed due to lack of funding. Could data analytics help reveal something in this data that could make up for the soil evidence that was destroyed? Your task is to investigate the hydrology data from across the Preserve. 
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveDuckWater/data/task2.zip)*
+### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/raw/master/7_FinalProjects/SuspenseWildlifePreserveDuckWater/data.zip)*
+
+
 
 You are given a map of the Preserve (with the same base as last year’s challenge), with named sampling sites indicated on the map (the names have local significance, but are just mnemonics for your study) You are also provided with readings from each sampling station over time for several different chemicals and water properties.
 
