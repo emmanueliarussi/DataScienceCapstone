@@ -13,7 +13,7 @@ To his disappointment Mitch is not granted a meeting. Then Mitch receives an ano
 
 Your task, as supported by data analytics that you apply, is to help Mitch determine the organizational structure of the group within Kasios that was referenced by the insider providing Mitch the data. How is it internally connected and is anyone else involved? Use data analytics to explore the available data and develop responses to the questions below. 
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/SuspenseWildlifePreserveOrganizedCrime/data/task3.zip)*
+### Data - *[Download](https://vacommunity.org/tiki-download_file.php?fileId=577)*
 
 You will find phone, email, meeting, and procurement records for Kasios International over the past 2 1/2 years. The data includes the source of each transaction, the recipient (destination), and the time of the transaction, but the contents of emails or phone calls are not available. There is also a company index that shows the name of all 642,631
 individuals in the company and their associated ID numbers. Many of these transactions have been already flagged as suspicious. 
