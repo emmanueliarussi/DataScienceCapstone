@@ -4,7 +4,7 @@ In response to an increase in malicious cyber-attacks, numerous “white hat” 
 
 Center for Global Cyber Strategy (CGCS) researchers have used the data donated by the white hat groups to create anonymized profiles of the groups. One such profile has been identified by CGCS sociopsychologists as most likely to resemble the structure of the group who accidentally caused this internet outage. You have been asked to examine CGCS records and identify those groups who most closely resemble the identified profile.
 
-### Data - *[Download 1](https://drive.google.com/file/d/1usvyFOpyDi0UD9OvYu2MaLbKICK8WLIa/view)* *[Download 2](https://drive.google.com/file/d/1usvyFOpyDi0UD9OvYu2MaLbKICK8WLIa/view)*
+### Data - *[Download 1](https://drive.google.com/file/d/1usvyFOpyDi0UD9OvYu2MaLbKICK8WLIa/view)* *[Download 2](https://github.com/emmanueliarussi/DataScienceCapstone/raw/master/7_FinalProjects/CenterGlobalCyberStrategyGraphAnalysis/metadata.zip)*
 
 Data consists of the following:
 
