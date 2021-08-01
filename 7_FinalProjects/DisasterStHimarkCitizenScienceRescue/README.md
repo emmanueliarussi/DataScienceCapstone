@@ -8,7 +8,7 @@ When an earthquake strikes St. Himark, the nuclear power plant suffers damage re
 
 *Note: reviewing the city description document may be helpful to understanding the landscape and character of the city.*
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkCitizenScienceRescue/data/task2.zip)*
+### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkCitizenScienceRescue/data.zip)*
 
 You will find two data files spanning the entire length of the events (12 am on April 6, 2020 to 11:59 pm on April 10, 2020), containing radiation measurements from mobile and static radiation sensors.  We also provide a set of supporting files. Be prepared for missing and corrupted data, skipped timesteps, and other issues. Both radiation measurements and movements may be affected by conditions in the city.
 
