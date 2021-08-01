@@ -11,7 +11,10 @@ With emergency services stretched thin, officials are relying on citizens to pro
 
 By combining seismic readings of the quake, responses from the app, and background knowledge of the city, help the city triage their efforts for rescue and recovery.
 
-### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/tree/master/7_FinalProjects/DisasterStHimarkCrowdsourcingSituationalAwareness/data/task1.zip)*
+### Data - *[Download](https://github.com/emmanueliarussi/DataScienceCapstone/raw/master/7_FinalProjects/DisasterStHimarkCrowdsourcingSituationalAwareness/data.zip)*
+
+
+
 
 The data includes one (CSV) file spanning the entire length of the event, containing (categorical) individual reports of shaking/damage by neighborhood over time. Reports are made by citizens at any time, however, they are only recorded in 5-minute batches/increments due to the server configuration. Furthermore, delays in the receipt of reports may occur during power outages. Also included are two shakemap (PNG) files which indicate where the corresponding earthquakes' epicenters originate as well as how much shaking can be felt across the city.
 
